@@ -1,0 +1,57 @@
+.Background img{
+	position: absolute;
+	margin-top: -7px;
+	margin-left: -7px;
+	margin-right: -7px;
+	margin-bottom: -7px;
+}
+
+.logo img{
+	position: relative;
+	margin-left: 60px;
+	margin-top: 60px;
+	opacity: 0.5;
+}
+.logo h2{
+	position: relative;
+	color: #FAF9F6;
+	font-family: "Raleway";
+	font-weight: bold;
+	margin-left: 25px;
+}
+
+.logo h3{
+	position: relative;
+	color: #FAF9F6;
+	font-family: "Raleway";
+	font-weight: bold;
+	margin-left: 50px;
+	margin-top: -16px;
+	font-size: 10px;
+	padding-left: 10px;
+}
+
+form{
+	position: relative;
+	padding-top: -10px;
+}
+
+.reset h2{
+	position: relative;
+	color: #FAF9F6;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.col-md-4 label{
+	color: #FAF9F6;
+}
+
+.mb-3 label{
+	color: #FAF9F6;
+}
+
+.col-12 button a{
+	text-decoration: none;
+	color: #FAF9F6;
+}
