@@ -1,0 +1,343 @@
+.Background{
+	position: absolute;
+	border: solid;
+	width: 100%;
+	height: 1000px;
+	margin-top: -10px;
+	margin-left: -10px;
+	border-width: 100%;
+	border-color: #403A60;
+	background-color: #403A60;
+}
+
+.logo img{
+	position: relative;
+	margin-left: 60px;
+	margin-top: 20px;
+	opacity: 0.5;
+}
+.logo h2{
+	position: relative;
+	color: #FAF9F6;
+	font-family: "Raleway";
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+.logo h3{
+	position: relative;
+	color: #FAF9F6;
+	font-family: "Raleway";
+	font-weight: bold;
+	margin-left: 50px;
+	margin-top: -16px;
+	font-size: 10px;
+	padding-left: 10px;
+}
+
+.menu{
+	position: relative;
+}
+
+.menu ul{
+
+}
+
+.menu ul li{
+ 	list-style: none;
+ 	display: inline-block;
+ 	float: left;
+ 	line-height: 30px;
+}
+
+.menu ul li a{
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: "Raleway";
+	color: white;
+	padding: 0 20px;
+
+}
+
+.menu ul li a:hover{
+	color: black;
+}
+
+.menu nav{
+	height: 30px;
+	background-color: #403A60;
+	margin-left: 300px;
+	margin-right:700px;
+	margin-top: -120px;
+}
+
+.collection h2{
+	position: relative;
+	color: #FAF9F6;
+	margin-top: 120px;
+}
+
+.collection input{
+	position: relative;
+	margin-top: 70px;
+}
+
+.hotel4 img{
+	position: relative;
+	padding-left: 400px;
+}
+
+.hotel4 p{
+	position: relative;
+	border: solid;
+	border-color: #FAF9F6;
+	background-color: #FAF9F6;
+	margin-left: 760px;
+	margin-top: -140px;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.hotel4 h2{
+	position: relative;
+	border: solid;
+	border-color: #EAEE18;
+	background-color: #EAEE18;
+	border-radius: 10%;
+	margin-left: 1300px;
+	margin-top: -140px;
+	height: 30px;
+	text-align: center;
+}
+
+.hotel5 img{
+	position: relative;
+	padding-left: 572px;
+	margin-top: 100px;
+}
+
+.hotel5 p{
+	position: relative;
+	border: solid;
+	border-color: #FAF9F6;
+	background-color: #FAF9F6;
+	margin-left: 760px;
+	margin-top: -138px;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.hotel5 h2{
+	position: relative;
+	border: solid;
+	border-color: #EAEE18;
+	background-color: #EAEE18;
+	border-radius: 10%;
+	margin-left: 1300px;
+	margin-top: -138px;
+	height: 30px;
+	text-align: center;
+}
+
+.hotel6 img{
+	position: relative;
+	padding-left: 572px;
+	margin-top: 100px;
+}
+
+.hotel6 p{
+	position: relative;
+	border: solid;
+	border-color: #FAF9F6;
+	background-color: #FAF9F6;
+	margin-left: 760px;
+	margin-top: -138px;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.hotel6 h2{
+	position: relative;
+	border: solid;
+	border-color: #EAEE18;
+	background-color: #EAEE18;
+	border-radius: 10%;
+	margin-left: 1300px;
+	margin-top: -138px;
+	height: 30px;
+	text-align: center;
+}
+
+.hotel7 img{
+	position: relative;
+	padding-left: 572px;
+	margin-top: 100px;
+}
+
+.hotel7 p{
+	position: relative;
+	border: solid;
+	border-color: #FAF9F6;
+	background-color: #FAF9F6;
+	margin-left: 760px;
+	margin-top: -138px;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.hotel7 h2{
+	position: relative;
+	border: solid;
+	border-color: #EAEE18;
+	background-color: #EAEE18;
+	border-radius: 10%;
+	margin-left: 1300px;
+	margin-top: -138px;
+	height: 30px;
+	text-align: center;
+}
+
+.prev h2 a{
+	position: relative;
+	text-decoration: none;
+	border: solid;
+	border-color: #FAF9F6;
+	background-color: #FAF9F6;
+	margin-left: 13px;
+	height: 25px;
+	width: 100px;
+	text-align: center;
+}
+
+.prev h2 a:hover{
+	color: #6B6159;
+}
+
+.footer{
+	position: absolute;
+	border: solid;
+	width: 100%;
+	height: 200px;
+	margin-top: 27px;
+	margin-left: -10px;
+	padding-top: 90px;
+	border-width: 100%;
+	border-color: #403A60;
+	background-color: #403A60;
+}
+
+.footer img{
+	margin-left: 60px;
+	margin-top: -90px;
+}
+
+.footer h2{
+	color: #FAF9F6;
+	margin-left: 55px;
+}
+
+.footer ul{
+	list-style: none;
+ 	display: inline-block;
+ 	float: left;
+ 	line-height: 15px;
+ 	margin-left: 400px;
+ 	margin-top: -120px;
+ 	color: #FAF9F6;
+}
+
+.footer1 ul{
+	position: absolute;
+	list-style: none;
+ 	display: inline-block;
+ 	float: left;
+ 	line-height: 15px;
+ 	margin-left: 600px;
+ 	margin-top: 85px;
+ 	color: #FAF9F6;
+}
+
+.footer2 ul{
+	position: absolute;
+	list-style: none;
+ 	display: inline-block;
+ 	float: left;
+ 	line-height: 15px;
+ 	margin-left: 800px;
+ 	margin-top: 85px;
+ 	color: #FAF9F6;
+}
+
+.register h2 a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Raleway";
+	position: absolute;
+	border: solid;
+	width: 8%;
+	text-align: center;
+	border-radius: 10%;
+	background-color: #18A0FB;
+	border-color: #18A0FB;
+	color: #FAF9F6;
+	margin-left: 1200px;
+	margin-top: 95px;
+}
+
+.sign1 h2 a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Raleway";
+	position: absolute;
+	border: solid;
+	width: 8%;
+	text-align: center;
+	border-radius: 10%;
+	background-color: #FAF9F6;
+	border-color: #FAF9F6;
+	color: #18A0FB;
+	margin-left: 1200px;
+	margin-top: 140px;
+}
+.sign h2 a:hover{
+	color: black;
+}
+
+.line{
+	position: absolute;
+	border: solid;
+	width: 100%;
+	height: 0;
+	border-color: black;
+	margin-top: 200px;
+	margin-left: -10px;
+}
+
+.brands ul li{
+ 	display: inline-block;
+ 	float: left;
+ 	padding: 30px;
+}
+
+.brands ul li img{
+	position: absolute;
+	display:block; 
+   	padding-left: 1100px;
+   	padding-top: 180px;
+}
+
+.brands h2{
+	position: relative;
+	font-family: "Raleway";
+	font-size: 25px;
+	padding-left: 1000px;
+	padding-top: 220px;
+
+}
+
+.brands p{
+	position: relative;
+	font-family: "Raleway";
+	font-size: 18px;
+}
